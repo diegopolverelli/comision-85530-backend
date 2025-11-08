@@ -1,0 +1,12 @@
+{"level":"error","message":"prueba error - /testLogger - GET","timestamp":"2025-11-08T16:14:03.356Z"}
+{"level":"error","message":"prueba error","timestamp":"2025-11-08T16:14:03.358Z"}
+{"level":"warn","message":"prueba warn","timestamp":"2025-11-08T16:14:03.359Z"}
+{"level":"error","message":"prueba error - /testLogger - GET","timestamp":"2025-11-08T16:14:03.507Z"}
+{"level":"error","message":"prueba error","timestamp":"2025-11-08T16:14:03.508Z"}
+{"level":"warn","message":"prueba warn","timestamp":"2025-11-08T16:14:03.509Z"}
+{"level":"error","message":"prueba error - /testLogger - GET","timestamp":"2025-11-08T16:14:03.648Z"}
+{"level":"error","message":"prueba error","timestamp":"2025-11-08T16:14:03.648Z"}
+{"level":"warn","message":"prueba warn","timestamp":"2025-11-08T16:14:03.649Z"}
+{"level":"error","message":"prueba error - /testLogger - GET","timestamp":"2025-11-08T16:14:03.813Z"}
+{"level":"error","message":"prueba error","timestamp":"2025-11-08T16:14:03.814Z"}
+{"level":"warn","message":"prueba warn","timestamp":"2025-11-08T16:14:03.815Z"}
